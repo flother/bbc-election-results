@@ -16,7 +16,7 @@ The code contains a minimal amount of testing in the form of [Scrapy contracts] 
 
     scrapy check bbc
 
-If there are no errors its a good indicator the data will be sound.
+If there are no errors it's a good indicator the data will be sound.
 
 Licence
 -------
